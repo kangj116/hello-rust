@@ -1,0 +1,12 @@
+/workspace/hello-rust/target/debug/deps/proc_macro2-8b9de0cc46870305.rmeta: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/marker.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/parse.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/detection.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/fallback.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/wrapper.rs
+
+/workspace/hello-rust/target/debug/deps/libproc_macro2-8b9de0cc46870305.rlib: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/marker.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/parse.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/detection.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/fallback.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/wrapper.rs
+
+/workspace/hello-rust/target/debug/deps/proc_macro2-8b9de0cc46870305.d: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/marker.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/parse.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/detection.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/fallback.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/wrapper.rs
+
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/lib.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/marker.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/parse.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/detection.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/fallback.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/wrapper.rs:
